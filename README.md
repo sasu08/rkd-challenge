@@ -1,4 +1,4 @@
-# Voolkia challenge
+# Rocking Data challenge
 
 # Descripcion
 Script en Python que descarga archivos de un S3 bucket y los almacena en una carpeta local + jupyter notebook para visualizar los datos.
